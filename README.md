@@ -1,0 +1,1 @@
+A stream cipher involves generating a pseudo-random stream of bits (or characters) that can be XORed with your plaintext (the sentence) to produce ciphertext. This example will demonstrate how to turn a sentence into ciphertext using a basic pseudo-random generator seeded with a fixed value.
