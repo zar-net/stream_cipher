@@ -16,7 +16,7 @@ To get started with this project, ensure you have Rust and Cargo installed on yo
 Clone this repository to your local machine using the following command:
 
 ```bash
-git clone https://your-repository-url-here.git
+git clone https://github.com/zar-net/stream_cipher.git
 cd your-project-directory-name
 ```
 
